@@ -1,0 +1,8 @@
+
+#ifndef INCLUDE_CONEXIONKERNELMEMORIA_H_
+#define INCLUDE_CONEXIONKERNELMEMORIA_H_
+#include "kernel.h"
+
+void conectarAMemoria();
+
+#endif /* INCLUDE_CONEXIONKERNELMEMORIA_H_ */
